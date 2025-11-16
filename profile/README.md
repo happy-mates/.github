@@ -125,9 +125,9 @@ Like AspIT (Denmark's leading IT institution for youth with autism) and others p
 
 Support Happy Mates at different levels:
 
-- **🥉 Bronze (12,500 kr)**: Support 1 student + website recognition
-- **🥈 Silver (25,000 kr)**: Support 1 student + 1 teacher + company presentation opportunity
-- **🥇 Gold (100,000 kr)**: Support 2 students + 1 teacher + 1 mentor + premium placement
+- **🥉 Bronze (15,000 kr)**: Support 1 student + website recognition
+- **🥈 Silver (30,000 kr)**: Support 1 student + 1 teacher + company presentation opportunity
+- **🥇 Gold (75,000 kr)**: Support 2 students + 1 teacher + 1 mentor + premium placement
 
 ## Our Partners
 
