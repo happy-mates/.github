@@ -135,7 +135,7 @@ Support Happy Mates at different levels:
 - **Playitas Resort**: World-class sports and training facilities in Fuerteventura
 - **Apollo Rejser**: Supporting travel and logistics for bootcamp participants
 - **IT Companies**: Providing cases, mentorship, and internship opportunities
-- **Sponsors**: Making the AI specialization program financially accessible
+- **Sponsors**: Making the AI specialization program financially accessible - [View our sponsors](SPONSORS.md)
 
 ## Get Involved
 
@@ -157,6 +157,8 @@ Visit [happymates.dk](https://happymates.dk) or [AI Specialization](https://happ
 
 ### As a Sponsor
 Contact us about Bronze, Silver, or Gold sponsorship opportunities
+
+**[View our current sponsors and become a sponsor →](SPONSORS.md)**
 
 ## Success Stories
 
