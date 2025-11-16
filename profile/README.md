@@ -1,33 +1,41 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9ab8169-f997-4736-8d39-363125435aba" alt="Happy Mates Logo" width="500">
+</p>
+
 # Welcome to Happy Mates! 🏝️
 
-> Connecting young people with autism and IT interests to companies through innovative bootcamps
+> Connecting young people with autism and IT interests to companies through innovative AI specialization bootcamps
 
 ## Who We Are
 
-**Happy Mates** is a Danish social initiative that bridges the gap between IT education and meaningful employment for young people with autism who have IT interests. We combine cutting-edge technology education, AI tools, physical wellness, and social training at the beautiful Playitas Resort in Fuerteventura.
+**Happy Mates** is a Danish social initiative that bridges the gap between IT education and meaningful employment for young people with autism who have IT interests. We recruit participants who have completed two years of IT education and provide them with an additional half-year of intensive AI specialization training. Our program combines cutting-edge AI technology education, practical bootcamps, physical wellness, and social training at the beautiful Playitas Resort in Fuerteventura.
 
 ## Our Mission
 
-Create pathways from education to employment through:
+Create pathways from education to employment through our AI specialization program:
 
-- 🎓 **Hands-on IT bootcamps** with real company projects
-- 🤖 **AI-first learning** using ChatGPT, GitHub Copilot, and modern tools
-- 🏃 **Physical wellness** through daily sports and activities
+- 🎓 **Half-year AI specialization** for participants with 2 years of IT education
+- 🤖 **Intensive AI training** using ChatGPT, GitHub Copilot, and modern AI frameworks
+- 🏃 **Physical wellness** through daily sports and activities at Playitas Resort
 - 🤝 **Social development** in a supportive, structured environment
 - 💼 **Direct company connections** leading to internships and jobs
+- 📚 **Hands-on bootcamps** with real company projects
 
 ## The Happy Mates Experience
 
-### One Week That Changes Everything
+### AI Specialization Program
 
-Our intensive 1-week bootcamps at Playitas Resort combine:
+Our unique program structure:
 
-- **6 hours daily** of technical learning and project work
-- **Professional sports facilities** with 20-30 daily activities
-- **Real company cases** that become portfolio projects
-- **AI-powered development** with industry-standard tools
-- **Social Breakout Day** focused on team building and friendships
-- **Path to employment** through our company partner network
+- **Prerequisites**: Two years of completed IT education
+- **Duration**: Half-year intensive AI specialization training
+- **Bootcamps**: Intensive 1-week sessions at Playitas Resort
+- **Daily Schedule**: 6 hours of technical learning and project work
+- **Activities**: Access to 20-30 daily sports activities at professional facilities
+- **AI Focus**: Practical application of modern AI tools and frameworks
+- **Real Projects**: Company cases that become portfolio pieces
+- **Social Training**: Team building and friendship development
+- **Career Path**: Direct connection to internships and employment
 
 ### What We Build
 
@@ -48,7 +56,7 @@ GitOps deployment orchestration for the Happy Mates ecosystem. Contains the comp
 - `IMPLEMENTATION_PLAN.md` - Detailed development roadmap
 - Deployment automation and infrastructure as code
 
-### 📐 [intra365](https://github.com/happy-mates/intra365)
+### 📐 [intra365](https://intra365-chef.vercel.app/)
 Reference architecture showcasing production-tested patterns from enterprise environments. Demonstrates how to build:
 - Next.js 15 web applications with React 19
 - Office add-ins with Office.js
@@ -79,8 +87,9 @@ We work with modern, industry-relevant technologies:
 ## Who Benefits?
 
 ### 🎯 Young People (Ages 18-30)
-With autism and IT interests looking for:
-- Practical experience with modern tools
+With autism and IT interests who have completed 2 years of IT education, looking for:
+- Half-year AI specialization training
+- Practical experience with modern AI tools and frameworks
 - Portfolio projects for job applications
 - Social connections with peers
 - Path to internships and employment
@@ -106,8 +115,9 @@ Contributing to:
 - Community impact
 
 ### 🎓 Educational Institutions
-Like AspIT and others partnering to:
-- Enhance student career outcomes
+Like AspIT (Denmark's leading IT institution for youth with autism) and others partnering to:
+- Provide participants with 2 years of foundational IT education
+- Enhance student career outcomes through AI specialization
 - Provide real-world experience
 - Connect students with companies
 
@@ -121,15 +131,17 @@ Support Happy Mates at different levels:
 
 ## Our Partners
 
-- **AspIT**: Primary educational partner providing student participants
+- **AspIT**: Primary educational partner - Denmark's leading IT institution for youth with autism, providing foundational IT education
 - **Playitas Resort**: World-class sports and training facilities in Fuerteventura
+- **Apollo Rejser**: Supporting travel and logistics for bootcamp participants
 - **IT Companies**: Providing cases, mentorship, and internship opportunities
-- **Sponsors**: Making the program financially accessible
+- **Sponsors**: Making the AI specialization program financially accessible
 
 ## Get Involved
 
 ### As a Participant
-Visit [happymates.dk](https://happymates.dk) to learn about upcoming bootcamps
+Requirements: 2 years of completed IT education, interest in AI specialization
+Visit [happymates.dk](https://happymates.dk) or [AI Specialization](https://happymates.dk/ai-specialisering) to learn about the program
 
 ### As a Company
 - Provide real cases for bootcamp projects
@@ -148,20 +160,21 @@ Contact us about Bronze, Silver, or Gold sponsorship opportunities
 
 ## Success Stories
 
-Our bootcamps create real outcomes:
+Our AI specialization program creates real outcomes:
 
-> *"I learned more in one week at Happy Mates than in months of regular classes. The combination of coding with AI tools and daily sports made everything click."*
-> — Marcus, 19, Bootcamp Participant
+> *"I learned more in the half-year AI specialization than I thought possible. The combination of intensive bootcamps, AI tools like ChatGPT and GitHub Copilot, and daily sports at Playitas made everything click."*
+> — Marcus, 21, AI Specialization Participant
 
-> *"As a parent, seeing my son connect with peers and gain confidence in his IT skills has been incredible. The structure and support made all the difference."*
+> *"As a parent, seeing my son complete his AI specialization and gain confidence in his skills has been incredible. The structure, support, and real company projects made all the difference."*
 > — Anne, Mother of Participant
 
-> *"We found great interns through Happy Mates. They come with practical skills, real project experience, and are eager to learn."*
+> *"We found great interns through Happy Mates. They come with solid foundational IT education, AI specialization, practical skills, and are eager to learn."*
 > — Lars Nielsen, IT Manager
 
 ## Connect With Us
 
 - **Website**: [happymates.dk](https://happymates.dk)
+- **AI Specialization**: [happymates.dk/ai-specialisering](https://happymates.dk/ai-specialisering)
 - **GitHub**: [github.com/happy-mates](https://github.com/happy-mates)
 - **LinkedIn**: [Happy Mates](https://www.linkedin.com/company/happy-mates)
 - **Instagram**: [@happymates.dk](https://www.instagram.com/happymates.dk)
@@ -183,8 +196,8 @@ All repositories are publicly available as part of the Happy Mates social initia
 ---
 
 **🏝️ Location**: Playitas Resort, Fuerteventura
-**🎯 Mission**: Education → Experience → Employment
-**💙 Focus**: Young people with autism + IT interests
-**🚀 Method**: AI tools + Sports + Social training + Real projects
+**🎯 Mission**: IT Education (2 years) → AI Specialization (6 months) → Employment
+**💙 Focus**: Young people with autism + IT education + AI interests
+**🚀 Method**: AI specialization + Bootcamps + Sports + Social training + Real projects
 
-*Building futures, one bootcamp at a time.*
+*Building futures through AI specialization, one bootcamp at a time.*
