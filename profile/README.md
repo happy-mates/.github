@@ -137,6 +137,8 @@ Support Happy Mates at different levels:
 - **IT Companies**: Providing cases, mentorship, and internship opportunities
 - **Sponsors**: Making the AI specialization program financially accessible
 
+**[View Full Partner Information →](PARTNERS.md)**
+
 ## Get Involved
 
 ### As a Participant
