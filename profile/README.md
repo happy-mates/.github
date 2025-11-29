@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c9ab8169-f997-4736-8d39-363125435aba" alt="Happy Mates Logo" width="500">
-</p>
 
 # Welcome to Happy Mates! 🏝️
 
