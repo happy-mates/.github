@@ -1,6 +1,8 @@
 
 # Welcome to Happy Mates! 🏝️
 
+> **This is the GitHub organization profile for Happy Mates, a companion to our main website at [happymates.dk](https://www.happymates.dk/)**
+
 > Connecting young people with autism and IT interests to companies through innovative AI specialization bootcamps
 
 ## Who We Are
